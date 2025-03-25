@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TinmarTheGreat
+- 👀 I’m interested in Your mum
+- 🌱 I’m currently learning C# in Unity
+- ⚡ Fun fact: What did the fish say when it hit a stone wall?  ...Deam
