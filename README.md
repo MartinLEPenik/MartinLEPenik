@@ -9,11 +9,5 @@ Hello! I'm Martin Lepenik, im curently exploring databases and creating games.
   -  [Washing Machine program](link) - A Washing machine buisnes program that tracs customers
 
 ## 💻 Skills
-- Python (basics) | C# | HTML(Basics) | SQL (Basics)  
-
-**Tools & Platforms:**
-- Git & GitHub | VS Code | Unity
-
-## 📈 GitHub Stats
-
-To be addad
+- Languages: Python (basics) | C# | HTML(Basics) | SQL (Basics)  
+- Tools: Git & GitHub | VS Code | Unity
