@@ -1,4 +1,4 @@
-Hello, im Martin Lepenik, a student of SERŠ - Maribor
+Hello! I'm Martin Lepenik, im curently exploring databases and creating games.
 
 ## 🔭 About Me
 - 🔹 Currently working on: SQL Databases
