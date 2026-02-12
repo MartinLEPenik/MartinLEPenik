@@ -5,8 +5,8 @@ Hello! I'm Martin Lepenik, im curently exploring databases and creating games.
 - 🔹 Interests: Gaming, Databases, useful programs
 
 ## 🌱 Projects
-  - [Simple User Id](link) - A simple user id system with paswords
-  -  [Washing Machine program](link) - A Washing machine buisnes program that tracs customers
+  - [Simple User Id]((https://github.com/MartinLEPenik/Simple-Name-Username-Age-Database.git)) - A simple user id system with paswords
+  -  [Washing Machine program]() - A Washing machine buisnes program that tracs customers
 
 ## 💻 Skills
 - Languages: Python (basics) | C# | HTML(Basics) | SQL (Basics)  
